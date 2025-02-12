@@ -7,5 +7,5 @@ def substrings(phrase, dictionary)
     hash
   end
 end
-
+puts substrings("below", dictionary)
 puts substrings("Howdy partner, sit down! How's it going?", dictionary);
